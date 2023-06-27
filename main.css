@@ -1,0 +1,17 @@
+.button{
+    display: flex;
+}
+
+.time{
+    padding-left:50px;
+    margin-bottom:50px;
+    font-size:50px;
+}
+
+button{
+    background-color:lightgray;
+    margin-right:5px;
+    height:50px;
+    width:100px;
+}
+
